@@ -9,8 +9,6 @@ import meter6 from "../assets/img/ionicpf.png";
 import meter7 from "../assets/img/reactpf.png";
 import meter8 from "../assets/img/nodepf.png";
 import colorSharp from "../assets/img/color-sharp3.png"
-import arrow1 from "../assets/img/arrow1.svg";
-import arrow2 from "../assets/img/arrow2.svg";
 export const Skills = () => {
     const responsive = {
       superLargeDesktop: {
